@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github-toptal:drottemberg1/remindme-app.git
+[submodule "remindme-app"]
+	path = remindme-app
+	url = git@github-toptal:drottemberg1/remindme-app.git
+[submodule "remindme-laravel"]
+	path = remindme-laravel
+	url = git@github-toptal:drottemberg1/remindme-laravel.git
