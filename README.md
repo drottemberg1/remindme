@@ -49,7 +49,10 @@
 
 1. **Go to the repository**:
    ```bash
-   cd remindme-laravel/src/
+   cd remindme-laravel
+   git checkout main
+   git pull origin main
+   cd src
    ```
 
 2. **Install dependencies**:
@@ -167,6 +170,8 @@ FILESYSTEM_DISK=local
 1. **Go to the repository**:
    ```bash
    cd remindme-app
+   git checkout main
+   git pull origin main
    ```
 
 2. **Install dependencies**:
