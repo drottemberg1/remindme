@@ -34,13 +34,14 @@
    ```bash
    git clone --recurse-submodules https://github.com/drottemberg1/remindme.git
    cd remindme
+   git config submodule.recurse true
    ```
 2. **Setup backend and fronend**:   
 
 ## Backend Setup
 
 ### Prerequisites
-- PHP 8.2
+- PHP >= 8.2
 - Composer
 - SQLite database
 
