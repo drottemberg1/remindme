@@ -1,6 +1,8 @@
 [submodule "remindme-app"]
 	path = remindme-app
 	url = https://github.com/drottemberg1/remindme-app.git
+	branch = main
 [submodule "remindme-laravel"]
 	path = remindme-laravel
 	url = https://github.com/drottemberg1/remindme-laravel.git
+	branch = main
